@@ -11,7 +11,7 @@ birthdays = {
 
 # Email credentials (Use App Password for Gmail)
 EMAIL_SENDER = "245123733173@mvsrec.edu.in"
-EMAIL_PASSWORD = "rruwnrwmqbrtpyvl"
+EMAIL_PASSWORD ="sdgsfdg"
 
 # Get today's date
 today = datetime.date.today()

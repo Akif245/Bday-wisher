@@ -3,9 +3,6 @@ import datetime
 import smtplib
 import random
 
-
-
-
 MY_EMAIL = "YOUR EMAIL"
 MY_PASSWORD = "YOUR PASSWORD"
 

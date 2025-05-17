@@ -1,6 +1,6 @@
 import requests
 
-response=requests.get(url="https://annafifoundation.com/")
+response=requests.get(url="https://google.com/")
 response.raise_for_status()
 
 data=response.json()
@@ -16,8 +16,8 @@ print(iss_position)
 
 
 
-# print(response)
-# if response.status_code!=200:
-#     print("Error")
-# else:
-#     print("Success!")
+print(response)
+if response.status_code!=200:
+    print("Error")
+else:
+    print("Success!")
